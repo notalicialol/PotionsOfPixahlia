@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./assets/title.png" alt="Potions of Pixahlia logo" width=550 />
+    <img src="./assets/logo.png" alt="Potions of Pixahlia logo" width=80 />
     <h1>Potions of Pixahlia</h1>
 </div>
 <h2>Description</h2>
