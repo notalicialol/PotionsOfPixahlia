@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="./assets/logo.png" alt="Pokémon Are Cool logo" width=550 />
-    <h1>Farm. Collect. Trade. Climb.</h1>
+    <img src="./assets/logo.png" alt="Potions of Pixahlia logo" width=550 />
+    <h1>Potions of Pixahlia</h1>
 </div>
 <h2>Description</h2>
-<p>Pokémon Are Cool (PAC) is a trading card game where you can collect Pokémon from different sets, trade with other players, and chat with other Pokémon lovers.</p>
+<p>Potions of Pixahlia (POP) is a team-based game where players collect rare ingredients, brew secret potions, and sell them to earn in-game money.</p>
